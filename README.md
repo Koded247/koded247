@@ -14,16 +14,16 @@
 - Programming Languages: JavaScript, Solidity
 - Tools & Frameworks: React, TailwindCSS
 
+
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=signor1&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=signor1&langs_count=8&layout=compact&theme=transparent" />
 </a>
-
 <!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=signor1&show_icons=true&theme=transparent" />
+</a>
 **Koded247/koded247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
