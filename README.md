@@ -3,11 +3,11 @@
 ### A Full Stack Web3 Developer (inView), writing Smart Contracts and working with (Solidity, Hardhat, Foundry, Ethersjs, Web3js, ReactJs, TypeScript).
 
 ## About Me
-- * Location:** Lagos, Nigeria
-- * Interests:** Coding, History, Football, Hiking.
-- * ✉️  Email:** korexcoded@email.com
+- * Location: Lagos, Nigeria
+- * Interests: Coding, History, Football, Hiking.
+- * ✉️  Email: korexcoded@email.com
 - * 🚀  I'm open for collaborations and jobs
-- * 🧠  I'm currently learning Rust language
+- * 🧠  I'm currently learning cairo and Rust language
 - * 🎵  A lover of Music
 
 ## Skills
